@@ -1,0 +1,16 @@
+[
+  {
+    "event_id": "EVT-101",
+    "event_type": "failed_login",
+    "username": "employee01",
+    "source_ip": "192.0.2.15",
+    "timestamp": "2026-10-12T10:30:00Z"
+  },
+  {
+    "event_id": "EVT-102",
+    "event_type": "successful_login",
+    "username": "employee01",
+    "source_ip": "192.0.2.15",
+    "timestamp": "2026-10-12T10:32:00Z"
+  }
+]
